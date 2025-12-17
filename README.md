@@ -25,9 +25,11 @@ I have also added a short-term sales forecast to see future trends based on hist
 
 ### Dashboard screenshots
 Screenshots of the dashboards are available in the Screenshots folder.
-### Dashboard Screenshots
 
-![Sales Dashboard](Screenshots/sales_dashboard.png)
+#### Superstore Sales Dashboard
+![Superstore Sales Dashboard](Screenshots/Screenshot%202025-12-18%20010300.png)
 
-![15-Day Sales Forecast](Screenshots/sales_forecast_15_days.png)
+#### 15-Day Sales Forecast Dashboard
+![15-Day Sales Forecast](Screenshots/Screenshot%202025-12-18%20010416.png)
+
 
